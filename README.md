@@ -1,5 +1,7 @@
 # 💫 About Me:
-Specialized in Information Technology and services with strong technical background and in-depth knowledge of programming and has hands-on experience on developing enterprise applications using Big data and Java technologies.
+Specialized in Information Technology and services with strong technical background and in-depth knowledge of programming and has hands on experience on developing enterprise applications using big data and java technologies.
+
+Had been part of large-scale application development, enhancements and implementations across different verticals. More than 12+ year of experience in Java, J2EE Development, coding and application support including more than 5+ year of experience in big data technologies.
 
 ## 🌐 Connect on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-s-kulkarni) 
